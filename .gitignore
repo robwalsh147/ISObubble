@@ -1,0 +1,9 @@
+# Build output
+/target/
+/dist/
+
+# Local screenshots and test discs (test files include copies of Windows programs,
+# which must not be published)
+/shots/
+/testdata/*
+!/testdata/make_iso.ps1
